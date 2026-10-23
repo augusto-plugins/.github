@@ -28,11 +28,11 @@ The repositories are private, so a link opens only after you accept your invitat
 ## Get access
 
 1. Use the Claude desktop app on a paid plan: Pro, Max, Team or Enterprise.
-2. Make a free GitHub account if you don't have one, and email Brian your username.
+2. Make a free GitHub account if you don't have one, and email your username to [contact@augustodigital.com](mailto:contact@augustodigital.com).
 3. Accept the invitation GitHub sends you.
 4. Open the plugin's repository and follow the install steps in its README.
 
-No GitHub account? You don't need one. Ask Brian for the download link and install the plugin from a zip file. With a zip, you install each new version yourself.
+No GitHub account? You don't need one. Ask us for the download link and install the plugin from a zip file. With a zip, you install each new version yourself.
 
 ## License
 
@@ -40,7 +40,7 @@ Each plugin carries its own license in its repository. Read it before you share 
 
 ## Help
 
-Access, installs or a plugin that won't start: Brian Anderson, [brian@augustodigital.com](mailto:brian@augustodigital.com).
+Questions about access, installs or a plugin that won't start? Email us at [contact@augustodigital.com](mailto:contact@augustodigital.com).
 
 <br />
 
