@@ -1,0 +1,28 @@
+{
+  "login": "augusto-plugins",
+  "name": "Augusto Plugins",
+  "description": "Claude plugins from Augusto Digital, shared privately with our clients. Access is by invitation.",
+  "blog": "https://augusto.digital",
+  "location": "Grand Rapids, MI",
+  "email": "brian@augustodigital.com",
+  "twitter_username": null,
+  "repositories": {
+    ".github": {
+      "description": "The public profile for the augusto-plugins organization: the org page README, and the org and repository settings it records.",
+      "homepage": "https://github.com/augusto-plugins",
+      "topics": []
+    },
+    "personal-second-brain": {
+      "description": "Build your own second brain and put it to work, with Claude. A private plugin marketplace from Augusto Digital for invited clients.",
+      "homepage": "https://augusto.digital",
+      "topics": [
+        "claude",
+        "claude-code",
+        "claude-plugins",
+        "plugin-marketplace",
+        "second-brain",
+        "personal-knowledge-management"
+      ]
+    }
+  }
+}
