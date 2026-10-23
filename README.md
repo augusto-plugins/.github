@@ -23,7 +23,7 @@ applies them.
 | Description | Claude plugins from Augusto Digital, shared privately with our clients. Access is by invitation. |
 | Website | https://augusto.digital |
 | Location | Grand Rapids, MI |
-| Email | brian@augustodigital.com |
+| Email | contact@augustodigital.com |
 
 To apply, an org owner runs the following from a machine with an authenticated
 [GitHub CLI](https://cli.github.com):
